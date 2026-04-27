@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Laheba Subhan 👋
 
-<!--
-**lahebasubhan-cmyk/lahebasubhan-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Accounting & Finance Graduate | Python for Finance | Data Analytics | Open to Internships
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Accounting & Finance Graduate
+- 📊 Learning Financial Data Analysis with Python
+- 📈 Exploring Power BI for data visualisation
+- 📍  Islamabad ,Pakistan Open to remote internships & opportunities
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/lahebasubhan/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [Personal Finance Dashboard](https://github.com/lahebasubhan-cmyk/personal-finance-dashboard) | 12 months income & expense analysis | Python, Pandas, Matplotlib |
+
+## Skills
+**Finance:** Financial Analysis · Portfolio Analysis · Budgeting
+
+**Technical:** Python · Pandas · NumPy · Matplotlib · Excel · Power BI (Learning)
+
+## Currently
+- 📖 Learning Power BI dashboards
+- 🔨 Building more finance data projects
+- 🎯 Goal: Land a Financial Data Analyst role
+
+*"Combining finance and data to support smarter decisions."*
