@@ -12,7 +12,7 @@ Accounting & Finance Graduate | Python for Finance | Data Analytics | Open to In
 ## Projects
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [Personal Finance Dashboard](https://github.com/lahebasubhan-cmyk/personal-finance-dashboard) | 12 months income & expense analysis | Python, Pandas, Matplotlib |
+| [Personal Finance Dashboard](https://github.com/laheba-subhan/personal-finance-dashboard) | 12 months income & expense analysis | Python, Pandas, Matplotlib |
 
 ## Skills
 **Finance:** Financial Analysis · Portfolio Analysis · Budgeting
