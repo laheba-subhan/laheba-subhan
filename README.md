@@ -14,10 +14,11 @@ Accounting & Finance Graduate | Python for Finance | Data Analytics | Open to In
 |---------|-------------|-------|
 | [Personal Finance Dashboard](https://github.com/laheba-subhan/personal-finance-dashboard) | 12 months income & expense analysis | Python, Pandas, Matplotlib |
 
+| [Digital Financial Inclusion in Pakistan](https://github.com/laheba-subhan/digital-financial-inclusion-pakistan) | Pakistan vs 24 developing economies, World Bank Global Findex data | R, tidyverse, fixest |
 ## Skills
 **Finance:** Financial Analysis · Portfolio Analysis · Budgeting
 
-**Technical:** Python · Pandas · NumPy · Matplotlib · Excel · Power BI (Learning)
+**Technical:** Python · R . Pandas · NumPy · Matplotlib · Excel · Power BI (Learning)
 
 ## Currently
 - 📖 Learning Power BI dashboards
